@@ -1,11 +1,10 @@
-#XfcePanelWindow{
+#XfcePanelWindow {
     border-radius: 10px;
 }
 
 #whiskermenu-button label {
     color: #d79921;
     font-weight: bold;
-    font-style: italic; 
 }
 
 #whiskermenu-button:hover {
@@ -14,14 +13,14 @@
 
 .xfce4-panel .tasklist .toggle {
     background-color: transparent;
-    border-radius: 10px; 
+    border-radius: 10px;
 }
 
 .xfce4-panel .tasklist .toggle :hover {
-    color : #3c3836
+    color: #3c3836
 }
 
 /*Launcher*/
-#launcher-arrow:hover{
+#launcher-arrow:hover {
     border-radius: 10px;
 }
