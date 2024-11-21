@@ -1,5 +1,6 @@
 #XfcePanelWindow {
     border-radius: 10px;
+    border-color: transparent;
 }
 
 #whiskermenu-button label {
